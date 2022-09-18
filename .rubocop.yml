@@ -1,0 +1,25 @@
+Style/Documentation:
+  Enabled: false
+
+Style/MethodDefParentheses:
+  Enabled: false
+
+Style/CaseEquality:
+  Enabled: false
+
+Style/BlockComments:
+  Enabled: false
+
+Style/RescueStandardError:
+  Enabled: false
+
+Layout/FirstHashElementIndentation:
+  Enabled: false
+
+Metrics/BlockLength:
+  Exclude:
+    - 'spec/**/*.rb'
+
+Style/BlockDelimiters:
+  Exclude:
+    - 'spec/**/*.rb'
